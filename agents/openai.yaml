@@ -1,0 +1,4 @@
+interface:
+  display_name: "English Vocabulary Video Prompts"
+  short_description: "Two-second vocabulary quizzes with flexible presenters"
+  default_prompt: "Use $english-vocab-video-prompts to write English video prompts for these vocabulary items, using my character image if supplied or teacher Milo otherwise."
